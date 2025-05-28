@@ -1,6 +1,6 @@
 # 3D-vs-Real-Object-Measurement
 
-## 🎯 Purpose
+## Purpose
 
 The purpose of this project is to verify whether a 3D-modeled object has been accurately formed after production, by comparing its physical dimensions with its digital STL model.
 
@@ -10,7 +10,7 @@ This project showcases practical skills in computer vision, dimensional analysis
 
 ---
 
-## 🚀 Features
+## Features
 
 - Dimension extraction from 2D images using OpenCV
 - Comparison of real vs. 3D model dimensions
@@ -20,7 +20,7 @@ This project showcases practical skills in computer vision, dimensional analysis
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 - Python 3.11+
 - OpenCV
