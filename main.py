@@ -121,7 +121,7 @@ class MainApp(QMainWindow):
                 if not all([self.kalinlik, self.genislik, self.yukseklik]):
                     raise ValueError("Lütfen önce üst ve yan görüntüleri yükleyin.")
 
-                # RoundCap için STL ölçüleri sabit
+                
                 stl_results = {
                     "diameter": 5.00,
                     "radius": 2.50,
@@ -199,7 +199,7 @@ class MainApp(QMainWindow):
 
                 self.ui.label_result_diff.setText(result_text.strip())
 
-        except Exception as e:  # ✅ bu satır eksikse hata alırsın
+        except Exception as e:  
             QMessageBox.critical(self, "Hata", f"3D karşılaştırma hatası:\n{str(e)}")
 
     def show_stl_window(self, path):
