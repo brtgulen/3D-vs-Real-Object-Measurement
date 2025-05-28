@@ -1,7 +1,6 @@
 import cv2
 import numpy as np
 
-
 def getContours(img, cThr=[30, 100], showCanny=False, minArea=1000, filter=0, draw=True):
     imgGray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
     imgBlur = cv2.GaussianBlur(imgGray, (5, 5), 1)
