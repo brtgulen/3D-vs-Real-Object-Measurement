@@ -1,0 +1,17 @@
+3D_vs_REAL_Object_Measurement_Project/
+├── main.py
+├── mainwindow.py
+├──mainwindow.ui
+├──main.spec
+├──__init__.py
+├── RoundCap/
+│   ├── find_roundcap.py
+│   ├── thickness_roundcap.py
+│   ├── measure_roundcap.py
+└── Matchbox/
+    ├── find_matchbox.py
+    ├── thickness_matchbox.py
+    └── measure_matchbox
+
+
+
