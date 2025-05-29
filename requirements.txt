@@ -1,4 +1,5 @@
-opencv-python
-open3d
-PyQt5
-numpy
+# Project dependencies for Python 3.11
+opencv-python>=4.5.0
+open3d>=0.17.0
+PyQt5>=5.15.0
+numpy>=1.23.0
