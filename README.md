@@ -28,7 +28,7 @@ This project showcases practical skills in computer vision, dimensional analysis
 - PyQt5
 - NumPy
 
-## 🔧 Install Dependencies
+## Install Dependencies
 
 ```bash
 pip install -r requirements.txt
