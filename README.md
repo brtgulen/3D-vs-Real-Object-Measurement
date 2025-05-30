@@ -40,6 +40,13 @@ pip install -r requirements.txt
 python main.py
 ```
 
+## Contributors
+
+| Name               | GitHub Profile                                  |
+|--------------------|-------------------------------------------------|
+| Muttalip Çiçek     | [@muttalip488](https://github.com/muttalip488) |
+| Mehlika Ebru Aydın | [@mehlikaebruaydin](https://github.com/mehlikaebruaydin) |
+
 
 
 
